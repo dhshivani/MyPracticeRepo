@@ -1,0 +1,5 @@
+<<<<<<< HEAD
+Line from main
+=======
+Line from GitNewBranch
+>>>>>>> GitNewBranch

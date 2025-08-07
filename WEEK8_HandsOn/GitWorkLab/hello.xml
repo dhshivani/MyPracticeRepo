@@ -1,0 +1,6 @@
+Line from GitWork branch
+Another line in GitWork
+<line>This line is from MAIN branch</line>
+<!-- Line from GitWork branch
+Another line in GitWork -->
+<line>This line is from GitWork branch</line>
